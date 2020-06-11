@@ -7,4 +7,4 @@ Feedback video link : https://drive.google.com/file/d/13Q8mnk8GR9ePKPEcVgesLANr-
 
 Android apk file : https://drive.google.com/file/d/1spGcqlUC1hfyvOREyijvanA0Lt3Pi9w1/view?usp=sharing
 
-Project demo video PPT : https://youtu.be/IkJq-B6agVI
+Project demo video PPT : https://youtu.be/PtnHvDfERE4
